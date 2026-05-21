@@ -17,3 +17,7 @@ AI-powered business profit simulator created to analyze sales performance and bu
 - AI-assisted business analysis
 - Prompt engineering
 - AI workflow creation
+
+## How to Run
+1. Download the files
+2. Open index.html in your browser
